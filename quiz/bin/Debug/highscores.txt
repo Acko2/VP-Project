@@ -1,0 +1,2 @@
+Petar,10
+Kiko,8
