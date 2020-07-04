@@ -41,5 +41,13 @@ namespace quiz
             myForm.ShowDialog();
             this.Close();
         }
+
+        private void buttonMenu_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var myForm = new startForm();
+            myForm.ShowDialog();
+            this.Close();
+        }
     }
 }
