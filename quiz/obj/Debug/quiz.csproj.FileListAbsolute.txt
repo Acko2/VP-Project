@@ -45,3 +45,16 @@ C:\Users\Pero\Desktop\VP_QuizProject\quiz\obj\Debug\quiz.csproj.CoreCompileInput
 C:\Users\Pero\Desktop\VP_QuizProject\quiz\obj\Debug\quiz.exe
 C:\Users\Pero\Desktop\VP_QuizProject\quiz\obj\Debug\quiz.pdb
 C:\Users\Pero\Desktop\VP_QuizProject\quiz\obj\Debug\quiz.reviewForm.resources
+C:\Users\Pero\VP-Project\quiz\bin\Debug\quiz.exe.config
+C:\Users\Pero\VP-Project\quiz\bin\Debug\quiz.exe
+C:\Users\Pero\VP-Project\quiz\bin\Debug\quiz.pdb
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.csprojAssemblyReference.cache
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.Form1.resources
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.highscoreForm.resources
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.Properties.Resources.resources
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.reviewForm.resources
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.startForm.resources
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.csproj.GenerateResource.cache
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.exe
+C:\Users\Pero\VP-Project\quiz\obj\Debug\quiz.pdb

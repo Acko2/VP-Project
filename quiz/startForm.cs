@@ -17,7 +17,8 @@ namespace quiz
         public startForm()
         {
             InitializeComponent();
-            this.ActiveControl = txtName; 
+            this.ActiveControl = txtName;
+            btnBack.Hide();
         }
 
         private void btnStart_Click(object sender, EventArgs e)
@@ -31,7 +32,7 @@ namespace quiz
                 myForm.ShowDialog();
                 this.Close();
             }
-            else if (txtName.Text.Length == 0)
+            else if (string.IsNullOrWhiteSpace(txtName.Text) == true)
             {
                 MessageBox.Show("Please enter your name!");
                 this.ActiveControl = txtName;
@@ -45,6 +46,7 @@ namespace quiz
                 btnStart.Text = "History";
                 btnHighscore.Text = "Geography";
                 btnExit.Text = "Trivia";
+                btnBack.Show();
                 
             }
             
@@ -83,6 +85,17 @@ namespace quiz
                 myForm.ShowDialog();
                 this.Close();
             }
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            lblHeader.Text = "QUIZ";
+            lblName.Show();
+            txtName.Show();
+            btnStart.Text = "Start quiz";
+            btnHighscore.Text = "Highscore";
+            btnExit.Text = "Exit";
+            btnBack.Hide();
         }
     }
 }
