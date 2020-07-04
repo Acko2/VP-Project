@@ -1,0 +1,10 @@
+﻿What is the most widely spoken language in Brazil?,Portuguese,Spanish,Mexican,French,Portuguese
+What does the white dove symbolize?,Rain,Peace,Love,Money,Peace
+How many milligrams make a gram?,100,10,1000,10000,1000
+What is the fastest animal?,Tiger,Ostrich,Cheetah,Horse,Cheetah
+From which language did the word “Ketchup” come from?,French,Chinese,Japanese,Italian,Chinese
+How many bones are there in the human body?,203,205,206,201,206
+What does Na stand for on the periodic table?,Sodium,Carbon,Oxygen,Silver,Sodium
+A hexagon has how many sides?,7,6,5,8,6
+In which ocean is the Bermuda Triangle located?,Atlantic,Pacific,Indian,Southern,Atlantic
+What is the closest planet to the sun?,Venus,Earth,Mercury,Saturn,Mercury

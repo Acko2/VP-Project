@@ -1,0 +1,10 @@
+What year did World War 2 start?,1945,1942,1939,1935,1939
+Which country gave the Statue of Liberty as a gift to the USA?,England,France,Canada,Mexico,France
+Who was the first president of Republic of Macedonia?,Boris Trajkovski,Kiro Gligorov,Gjorgi Ivanov,Branko Crvenkovski,Kiro Gligorov
+What is Nikola Tesla famous for?,Phone,Light bulb,Electricity,Airplane,Electricity
+How many people have walked on the moon?,3,5,20,12,12
+What year did the Titanic sink?,1910,1915,1923,1912,1912
+How long was the Hundred Years' War?,100,116,104,99,116
+How many wives did Henry VIII have?,5,4,2,6,6
+Where did the Olympic Games originate?,Macedonia,China,Greece,Spain,Greece
+Who discovered America?,James Cook,Christopher Columbus,Marco Polo,Francis Drake,Christopher Columbus

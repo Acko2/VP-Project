@@ -1,0 +1,10 @@
+What is the capital of Macedonia?,Bitola,Veles,Skopje,Kumanovo,Skopje
+Which is the worlds highest mountain?,K2,Kilimanjaro,Mount Everest,Makalu,Mount Everest
+Which of these cities is not in Europe?,Barcelona,Prague,Cairo,Reykjavik,Cairo
+What is the largest ocean in the world?,Pacific,Atlantic,Indian,Arctic,Pacific
+What is the capital of Bulgaria?,Zagreb,Sofia,Vienna,Podgorica,Sofia
+What country doesn't border Macedonia?,Serbia,Bulgaria,Romania,Albania,Romania
+What is the worlds largest continent?,Africa,Europe,Australia,Asia,Asia
+Vilnius is the capital of which country?,Latvia,Czechia,Lithuania,Estonia,Lithuania
+What is the largest river in the world?,Nile,Amazon,Missouri,Yangtze,Nile
+Which of the following is the biggest?,USA,China,Canada,Brazil,Canada
